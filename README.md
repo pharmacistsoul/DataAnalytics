@@ -6,4 +6,4 @@
 
 
 
-*[print 명령문을 공부했다](___URL)
+*[print 명령문을 공부했다](https://www.naver.com/)
